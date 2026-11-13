@@ -1,14 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-#include <windows.h>
+
 
 #include "Func.h"
 
 int main() {
 
-    SetConsoleOutputCP(CP_UTF8);
-    SetConsoleCP(CP_UTF8);
+ 
 
     double x1, x2, delta, x, fx;
     unsigned int N;
